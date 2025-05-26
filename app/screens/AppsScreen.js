@@ -1,5 +1,5 @@
-import { ScrollView, View, Text, StyleSheet } from "react-native";
 import { AntDesign, MaterialIcons } from "@expo/vector-icons";
+import { ScrollView, StyleSheet, Text, View } from "react-native";
 
 const SectionList = ({
   title,

@@ -1,9 +1,9 @@
-import { View, Text, StyleSheet } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 
-export default function GamesScreen() {
+export default function GoldScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Games Screen</Text>
+      <Text style={styles.text}>Gold Screen</Text>
     </View>
   );
 }
